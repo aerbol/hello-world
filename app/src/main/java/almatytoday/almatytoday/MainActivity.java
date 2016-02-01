@@ -11,7 +11,7 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
     public void button(View V){
         TextView d =(TextView) findViewById(R.id.textView);
-        d.setText( "Almaty Today");
+        d.setText( "Yerbol");
 
     }
     @Override
